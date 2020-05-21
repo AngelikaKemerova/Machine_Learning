@@ -12,8 +12,9 @@
 
 ## [Линейные модели, SVM и деревья решений.](https://github.com/AngelikaKemerova/TMO/tree/master/L5)
 
-## Ансамбли моделей машинного обучения.
+## [Ансамбли моделей машинного обучения.](https://github.com/AngelikaKemerova/TMO/tree/master/L6)
 
 
 # Рубежные контроли:
 ## [РК №1.](https://github.com/AngelikaKemerova/TMO/tree/master/RK1)
+## РК №2.
