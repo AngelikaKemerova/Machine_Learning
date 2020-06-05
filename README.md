@@ -18,3 +18,7 @@
 # Рубежные контроли:
 ## [РК №1.](https://github.com/AngelikaKemerova/TMO/tree/master/RK1)
 ## [РК №2.](https://github.com/AngelikaKemerova/TMO/tree/master/RK2)
+
+
+# Курсовой проект:
+## [КР](https://github.com/AngelikaKemerova/TMO/tree/master/KR)
